@@ -1,0 +1,7 @@
+require ["fileinto", "copy"];
+if address :domain :is "from" "bbslue.schulserver.de" {
+	redirect :copy "email@gmail.com";
+  }
+stop;
+
+# email@gmail.com soll mit deiner email addresse ersetzt werden
