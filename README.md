@@ -1,6 +1,6 @@
 # bbslue.sieve
 
-Ein Sieve script für iServ.
+Ein Sieve script für iServ, welches Emails von iServ zu eurer Privaten Email Addresse weiterleitet. 
 
 Anweisung:
 - Unter den user einstellungen findet ihr eine Funktion mit dem Namen "Sieve einstellung".
