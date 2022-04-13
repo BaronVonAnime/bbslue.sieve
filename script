@@ -1,7 +1,7 @@
 require ["fileinto", "copy"];
 if address :domain :is "from" "bbslue.schulserver.de" {
-	redirect :copy "email@gmail.com";
+	redirect :copy "max.musterman@gmx.de";
   }
 stop;
 
-# email@gmail.com soll mit deiner email addresse ersetzt werden
+# max.musterman@gmx.de soll mit Deiner email addresse ersetzt werden, sonst werden keine emails weitergeleitet.
