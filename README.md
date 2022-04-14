@@ -7,5 +7,5 @@ Anweisung:
 - Dort in das text feld Kopiert ihr den Code aus https://github.com/CX13BVA/bbslue.sieve/blob/master/script .
 - Beachtet aber, dass ihr das Email Beispiel (max.musterman@gmx.de) mit eurer email addresse ersetzen müsst, sonst werden euch keine Emails weitergeleitet.
 
-Bei Rückfragen könnt ihr hier auf diesem Git Kommentieren, oder ihr wendet euch an das Sekretariat oder einem IT-Lehrer, meine Kontaktdaten sind dort Hinterlegt. 
+Bei Rückfragen könnt ihr mir auf Twitter schreiben (@Jason13_x), oder ihr wendet euch an das Sekretariat oder einem IT-Lehrer, meine Kontaktdaten sind dort Hinterlegt. 
 Bleibt Gesund und viel Spaß beim Lernen. 
